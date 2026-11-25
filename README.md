@@ -4,17 +4,17 @@
 
 # Laugh Track: The Crypto Trading Joke Contest
 
-Entry for the [make.fun](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a) bounty "Laugh Track: The Crypto Trading Joke Contest" — one line, under 200 characters, about crypto and trading life.
+Entry for the [make.fun](https://make.fun/bounty/u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a) bounty "Laugh Track: The Crypto Trading Joke Contest" — one joke, one line, under 200 characters, about crypto and trading life.
 
 ## The joke
 
 > My trading strategy is simple: buy high, panic-sell low, then tell the group chat it was all part of the plan.
 
-(110 characters — one line, under the 200-character limit. Setup: a "strategy". Turn: buy high, panic-sell low. Punchline: blaming it on the plan in front of the group chat.)
+That is 110 characters. The setup pretends there is a real strategy; the turn is doing everything backwards (buy high, panic-sell low); the punchline is the trader saving face by telling the group chat it was all part of the plan.
 
 ## How it works
 
-`main.ts` is a deterministic program that writes exactly that one line to `/output/entry.txt`. No randomness, no network, no input — the same line every run.
+`main.ts` is a small deterministic program: it checks the joke is within the 1–200 character limit, then writes exactly that one line to `/output/entry.txt`. No randomness, no network calls, no input — every run produces the same file.
 
 Run it:
 
@@ -22,3 +22,10 @@ Run it:
 node main.ts
 cat /output/entry.txt
 ```
+
+## Files
+
+- `main.ts` — the entrypoint; writes the joke to `/output/entry.txt`.
+- `README.md` — this file.
+- `LICENSE` — MIT license.
+- `.makefun/owner.json` — payout wallet for the prize.
