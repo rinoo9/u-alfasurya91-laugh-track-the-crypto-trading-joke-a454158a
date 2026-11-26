@@ -8,9 +8,9 @@ Entry for the [make.fun](https://make.fun/bounty/u-alfasurya91-laugh-track-the-c
 
 ## The joke
 
-> My trading strategy is simple: buy high, panic-sell low, then tell the group chat it was all part of the plan.
+> I bought the dip, then the dip dipped, then I bought that dip too — my portfolio is now a diversified collection of regrets and one very expensive lesson.
 
-That is 110 characters. The setup pretends there is a real strategy; the turn is doing everything backwards (buy high, panic-sell low); the punchline is the trader saving face by telling the group chat it was all part of the plan.
+That is 154 characters. The setup is the classic "buy the dip" advice; the turn is the dip dipping again and again while the trader keeps buying; the punchline reframes the losses as a diversified portfolio of regrets.
 
 ## How it works
 
