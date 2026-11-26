@@ -8,7 +8,7 @@ Entry for the [make.fun](https://make.fun/bounty/u-alfasurya91-laugh-track-the-c
 
 ## The joke
 
-> I bought the dip, then the dip dipped, then I bought that dip too — my portfolio is now a diversified collection of regrets and one very expensive lesson.
+> I set a stop-loss and the market stopped exactly there, then went straight back up — it respects boundaries better than my ex.
 
 That is 154 characters. The setup is the classic "buy the dip" advice; the turn is the dip dipping again and again while the trader keeps buying; the punchline reframes the losses as a diversified portfolio of regrets.
 
