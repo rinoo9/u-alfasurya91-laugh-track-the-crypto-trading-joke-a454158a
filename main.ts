@@ -3,7 +3,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 // A single joke about crypto trading life. The contest caps the entry at
 // 200 characters, so the line is kept short and punchy on purpose.
 const JOKE =
-  "I bought the dip, then the dip dipped, then I bought that dip too — my portfolio is now a diversified collection of regrets and one very expensive lesson.";
+  "I set a stop-loss and the market stopped exactly there, then went straight back up — it respects boundaries better than my ex.";
 
 // Guard the length up front: a line outside 1-200 characters would be
 // rejected by the scorer, so refuse to write anything invalid.
